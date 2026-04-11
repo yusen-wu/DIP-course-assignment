@@ -1,0 +1,10 @@
+# Core numerical and deep learning dependencies
+numpy
+torch
+
+# Image processing
+opencv-python
+Pillow
+
+# UI for Poisson blending demo
+gradio
