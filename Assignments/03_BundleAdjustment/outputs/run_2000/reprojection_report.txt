@@ -1,0 +1,4 @@
+visible_points=805089
+mean_reprojection_error=0.009807
+median_reprojection_error=0.008271
+max_reprojection_error=0.063511

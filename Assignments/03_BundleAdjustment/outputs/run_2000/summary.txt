@@ -1,0 +1,6 @@
+device=cpu
+steps=2000
+final_loss=0.000049
+focal_length=885.654053
+num_views=50
+num_points=20000
