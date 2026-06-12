@@ -1,0 +1,10 @@
+device=cuda
+scene=chair
+num_epochs=10
+training_images=12
+initialized_points=1000
+colmap_registered_images=100
+colmap_sparse_points=13702
+final_epoch_avg_l1_loss=0.0997
+checkpoint=checkpoint_000000.pt
+final_debug_image=debug_images/epoch_0009.png
